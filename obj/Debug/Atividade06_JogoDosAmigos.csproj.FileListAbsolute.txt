@@ -1,0 +1,8 @@
+C:\Users\vitin\source\repos\Atividade06_JogoDosAmigos\Atividade06_JogoDosAmigos\bin\Debug\Atividade06_JogoDosAmigos.exe.config
+C:\Users\vitin\source\repos\Atividade06_JogoDosAmigos\Atividade06_JogoDosAmigos\bin\Debug\Atividade06_JogoDosAmigos.exe
+C:\Users\vitin\source\repos\Atividade06_JogoDosAmigos\Atividade06_JogoDosAmigos\bin\Debug\Atividade06_JogoDosAmigos.pdb
+C:\Users\vitin\source\repos\Atividade06_JogoDosAmigos\Atividade06_JogoDosAmigos\obj\Debug\Atividade06_JogoDosAmigos.csproj.AssemblyReference.cache
+C:\Users\vitin\source\repos\Atividade06_JogoDosAmigos\Atividade06_JogoDosAmigos\obj\Debug\Atividade06_JogoDosAmigos.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitin\source\repos\Atividade06_JogoDosAmigos\Atividade06_JogoDosAmigos\obj\Debug\Atividade06_JogoDosAmigos.csproj.CoreCompileInputs.cache
+C:\Users\vitin\source\repos\Atividade06_JogoDosAmigos\Atividade06_JogoDosAmigos\obj\Debug\Atividade06_JogoDosAmigos.exe
+C:\Users\vitin\source\repos\Atividade06_JogoDosAmigos\Atividade06_JogoDosAmigos\obj\Debug\Atividade06_JogoDosAmigos.pdb
