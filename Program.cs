@@ -40,7 +40,7 @@ namespace Atividade06_JogoDosAmigos
                 }
                 else 
                 {
-                    Console.WriteLine("Resposta inválida. Digite SIM ou NÃO. Jogue novamente.");
+                    Console.WriteLine("Resposta inválida. Digite SIM ou NÃO.");
                 }
 
             }
