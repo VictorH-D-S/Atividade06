@@ -12,7 +12,7 @@ namespace Atividade06_JogoDosAmigos
         {
             Random num = new Random();
             int card1 = num.Next(1,11), card2 = num.Next(1, 11), card3 = num.Next(1, 11), total_cartas = card1 + card2;
-            string blaze;
+            string continua;
 
             Console.WriteLine("=============Bem vindo ao jogo de los amigos!!!=============");
 
@@ -22,16 +22,16 @@ namespace Atividade06_JogoDosAmigos
             while (total_cartas < 21)
             {
                 Console.WriteLine("Continuar? Responda com SIM ou NÃO.");
-                blaze = Console.ReadLine();
+                continua = Console.ReadLine();
 
-                if (blaze == "SIM")
+                if (continua == "SIM")
                 {
                     card3 = num.Next(1, 11);
                     total_cartas += card3;
 
                     Console.WriteLine($"Suas cartas: {card1}, {card2}, {card3}. Total: {total_cartas}");
                 }
-                else if (blaze == "NÃO")
+                else if (continua == "NÃO")
                 {
                     Console.WriteLine("Saiu do jogo. Pressione qualquer tecla para continuar.");
                     Console.ReadKey();
